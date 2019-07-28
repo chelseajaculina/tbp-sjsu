@@ -13,6 +13,6 @@ Deployment: Herokuapp
 <br/>
 Chelsea Jaculina. Built in 2019.
 
-<br/>
-#Link
+
+# Link
 https://tbp-sjsu.herokuapp.com/
